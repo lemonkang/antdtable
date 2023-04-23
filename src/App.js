@@ -9,9 +9,9 @@ function App() {
 
   }
   return (
-    <div className="App">
-     <button onClick={request}>requestnaster</button>
-    </div>
+    <h2>
+      test
+    </h2>
   );
 }
 
